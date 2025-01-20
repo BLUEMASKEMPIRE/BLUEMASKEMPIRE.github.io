@@ -14,13 +14,13 @@
         }
         header {
             background-color: rgba(0, 0, 255, 0.8); /* Niebieski nagłówek */
-            color: white;
+            color: white; /* Kolor tekstu nagłówka na biały */
             padding: 20px 0;
         }
         header h1 {
             margin: 0;
             font-size: 2.5em;
-            color: #0000ff; /* Niebieski kolor tytułu */
+            color: #ffffff; /* Biały kolor tytułu */
         }
         .container {
             max-width: 1200px;
@@ -91,8 +91,8 @@
             <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
         </div>
         <div class="product">
-            <h2>Copy Card</h2>
-            <p>Copy Card With Balance In It</p>
+            <h2>Blank Card</h2>
+            <p>Copy Card With Balance In It </p>
             <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
         </div>
         <div class="product">
