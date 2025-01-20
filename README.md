@@ -10,7 +10,7 @@
             margin: 0;
             padding: 0;
             background-color: #000; /* Czarne tło */
-            color: #0000;
+            color: #000;
             text-align: center;
         }
         header {
