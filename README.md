@@ -91,13 +91,13 @@
             <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
         </div>
         <div class="product">
-            <h2>Blank Card</h2>
-            <p>Purchase Blank Card</p>
+            <h2>Cloned Card</h2>
+            <p>Cloned Cards With Balacne</p>
             <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
         </div>
         <div class="product">
             <h2>PayPal Transfer</h2>
-            <p>Make Payment via PayPal</p>
+            <p>Explain In Telegram </p>
             <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
         </div>
     </div>
