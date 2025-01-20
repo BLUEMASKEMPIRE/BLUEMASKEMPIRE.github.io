@@ -9,13 +9,12 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background: url(file:///C:/Users/adam_/Downloads/20euro.jpg) no-repeat center center fixed;
-            background-size: cover;
-            color: #333;
+            background-color: #000; /* Czarne tło */
+            color: #fff;
             text-align: center;
         }
         header {
-            background-color: rgba(0, 86, 179, 0.8);
+            background-color: rgba(255, 0, 0, 0.8); /* Czerwony nagłówek */
             color: white;
             padding: 20px 0;
         }
@@ -27,7 +26,7 @@
             max-width: 1200px;
             margin: 0 auto;
             padding: 20px;
-            background-color: rgba(255, 255, 255, 0.8);
+            background-color: rgba(0, 0, 0, 0.8); /* Ciemne tło dla sekcji */
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
@@ -38,7 +37,7 @@
             padding: 15px;
             border: 1px solid #ddd;
             border-radius: 10px;
-            background-color: white;
+            background-color: #333; /* Ciemne tło dla produktów */
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         .product img {
@@ -48,17 +47,17 @@
         }
         .product h2 {
             font-size: 1.5em;
-            color: #0056b3;
+            color: #ff0000; /* Czerwony kolor tekstu */
         }
         .product p {
             font-size: 1em;
-            color: #666;
+            color: #ccc;
         }
         .product a {
             text-decoration: none;
         }
         .product button {
-            background-color: #0056b3;
+            background-color: #ff0000; /* Czerwony przycisk */
             color: white;
             border: none;
             padding: 10px 20px;
@@ -67,7 +66,7 @@
             cursor: pointer;
         }
         .product button:hover {
-            background-color: #003d80;
+            background-color: #cc0000; /* Ciemniejszy czerwony po najechaniu */
         }
     </style>
 </head>
@@ -89,6 +88,16 @@
         <div class="product">
             <h2>20 Euro</h2>
             <p>1:1 Prop Money </p>
+            <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
+        </div>
+        <div class="product">
+            <h2>Blank Card</h2>
+            <p>Purchase Blank Card</p>
+            <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
+        </div>
+        <div class="product">
+            <h2>PayPal Transfer</h2>
+            <p>Make Payment via PayPal</p>
             <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
         </div>
     </div>
