@@ -10,7 +10,7 @@
             margin: 0;
             padding: 0;
             background-color: #000; /* Czarne tło */
-            color: #FFF;
+            color: #fff;
             text-align: center;
         }
         header {
@@ -21,6 +21,7 @@
         header h1 {
             margin: 0;
             font-size: 2.5em;
+            color: #ff0000; /* Czerwony kolor tytułu */
         }
         .container {
             max-width: 1200px;
@@ -91,13 +92,13 @@
             <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
         </div>
         <div class="product">
-            <h2>Cloned Card</h2>
-            <p>Cloned Cards With Balacne</p>
+            <h2>Copy Card</h2>
+            <p>Copy Card With Balance In It</p>
             <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
         </div>
         <div class="product">
             <h2>PayPal Transfer</h2>
-            <p>Explain In Telegram </p>
+            <p>Explain In Group</p>
             <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
         </div>
     </div>
