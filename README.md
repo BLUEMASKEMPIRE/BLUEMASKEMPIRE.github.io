@@ -1,4 +1,3 @@
-
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -14,14 +13,14 @@
             text-align: center;
         }
         header {
-            background-color: rgba(255, 0, 0, 0.8); /* Czerwony nagłówek */
+            background-color: rgba(0, 0, 255, 0.8); /* Niebieski nagłówek */
             color: white;
             padding: 20px 0;
         }
         header h1 {
             margin: 0;
             font-size: 2.5em;
-            color: #ff0000; /* Czerwony kolor tytułu */
+            color: #0000ff; /* Niebieski kolor tytułu */
         }
         .container {
             max-width: 1200px;
@@ -48,7 +47,7 @@
         }
         .product h2 {
             font-size: 1.5em;
-            color: #ff0000; /* Czerwony kolor tekstu */
+            color: #0000ff; /* Niebieski kolor tekstu */
         }
         .product p {
             font-size: 1em;
@@ -58,7 +57,7 @@
             text-decoration: none;
         }
         .product button {
-            background-color: #ff0000; /* Czerwony przycisk */
+            background-color: #0000ff; /* Niebieski przycisk */
             color: white;
             border: none;
             padding: 10px 20px;
@@ -67,7 +66,7 @@
             cursor: pointer;
         }
         .product button:hover {
-            background-color: #cc0000; /* Ciemniejszy czerwony po najechaniu */
+            background-color: #0000cc; /* Ciemniejszy niebieski po najechaniu */
         }
     </style>
 </head>
@@ -98,7 +97,7 @@
         </div>
         <div class="product">
             <h2>PayPal Transfer</h2>
-            <p>Explain In Group</p>
+            <p>Explain In Telegram Group</p>
             <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
         </div>
     </div>
