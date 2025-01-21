@@ -91,7 +91,7 @@
             <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
         </div>
         <div class="product">
-            <h2>Blank Card</h2>
+            <h2>Cloned Card</h2>
             <p>Copy Card With Balance In It </p>
             <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
         </div>
