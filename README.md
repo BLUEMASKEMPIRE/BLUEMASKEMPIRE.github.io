@@ -77,22 +77,22 @@
     <div class="container">
         <div class="product">
             <h2>100 Euro</h2>
-            <p>1:1 Prop Money </p>
+            <p>Realistic Prop Money </p>
             <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
         </div>
         <div class="product">
             <h2>50 Euro</h2>
-            <p>1:1 Prop Money</p>
+            <p>Realistic Prop Money</p>
             <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
         </div>
         <div class="product">
             <h2>20 Euro</h2>
-            <p>1:1 Prop Money </p>
+            <p>Realistic Prop Money </p>
             <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
         </div>
         <div class="product">
-            <h2>Cloned Card</h2>
-            <p>Copy Card With Balance In It </p>
+            <h2>White Card</h2>
+            <p>Expalin In Telegram  </p>
             <a href="https://t.me/CloudProps" target="_blank"><button>Buy Now</button></a>
         </div>
         <div class="product">
